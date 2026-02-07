@@ -73,8 +73,7 @@ submitted, in_review, completed, cancelled
 
 ## How column constraints are determined
 
-In a company setting, information such as whether a column can be null or must be unique is not guessed.
-It is determined from existing data infrastructure and documentation.
+In a company setting, information such as whether a column can be null or must be unique is determined based on existing data infrastructure and documentation.
 
 In practice, this information usually comes from:
 - the database schema and internal data catalog (for nullability and data types)
