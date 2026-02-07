@@ -63,7 +63,7 @@ Configuration docs are also needed so that engineers can quickly see how the AI 
 
 ### **B) AI configuration docs (for engineers / BI platform)**
 
-**File:** `ai_tool_configuration.md`
+**File:** [ai_tool_configuration.md](https://github.com/ashleysally00/ai-analytics-context-management-example/blob/main/ai_tool_configuration.md)
 
 These documents explain:
 
