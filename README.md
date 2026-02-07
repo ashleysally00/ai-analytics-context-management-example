@@ -63,7 +63,7 @@ Configuration docs are also needed so that engineers can quickly see how the AI 
 
 ### **B) AI configuration docs (for engineers / BI platform)**
 
-**File:** [ai_tool_configuration.md](https://github.com/ashleysally00/ai-analytics-context-management-example/blob/main/ai_tool_configuration.md)
+**File:** [ai_analytics_tool.md](https://github.com/ashleysally00/ai-analytics-context-management-example/blob/main/ai_analytics_tool.md)
 
 These documents explain:
 
@@ -83,7 +83,7 @@ Finally, instructions are needed for the people who use the chatbot so they know
 
 ### **C) Instructions for internal users**
 
-**File:** [using_the_ai_analytics_tool.md](https://github.com/ashleysally00/ai-analytics-context-management-example/blob/main/using_the_ai_analytics_tool.md)
+**File:** [ai_tool_configuration.md](https://github.com/ashleysally00/ai-analytics-context-management-example/blob/main/ai_tool_configuration.md)
 
 Together with the AI context file and the configuration documentation, these instructions make it possible for the chatbot and its users to reliably answer questions such as:
 
