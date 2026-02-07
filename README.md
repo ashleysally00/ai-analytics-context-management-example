@@ -43,7 +43,7 @@ For this to work, the chatbot needs a context file that tells it how to read the
 
 ### **A) AI context file (for the chatbot)**
 
-**File:** `ai_context.md`
+**File:** [ai_context.md](https://github.com/ashleysally00/ai-analytics-context-management-example/blob/main/ai_context.md)
 
 This file explains:
 
