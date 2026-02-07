@@ -1,4 +1,4 @@
-# Using the AI analytics tool
+# AI analytics tool overview
 
 This document explains how internal teams at ExampleCorp should use the AI analytics chatbot and how to interpret its results.
 
