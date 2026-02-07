@@ -3,7 +3,7 @@
 This repository demonstrates how to create AI context files, configuration documentation, and user guidance for an internal analytics assistant using synthetic lending data.  
 It is intended as a documentation and context-engineering example only.
 
-Lendy has an internal AI chatbot that answers questions about lending data and model performance.
+ExampleCorp has an internal AI chatbot that answers questions about lending data and model performance.
 
 Context greatly improves chatbots — but an internal AI analytics system needs more than one context layer to work correctly.
 
