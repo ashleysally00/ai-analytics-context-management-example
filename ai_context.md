@@ -68,3 +68,20 @@ Required.
 
 Value range:  
 submitted, in_review, completed, cancelled
+
+---
+
+## How column constraints are determined
+
+In a company setting, information such as whether a column can be null or must be unique is not guessed.
+It is determined from existing data infrastructure and documentation.
+
+In practice, this information usually comes from:
+- the database schema and internal data catalog (for nullability and data types)
+- transformation and modeling code (for example, dbt tests such as `not_null` and `unique`)
+- existing data quality checks and monitoring rules owned by the data platform or BI team
+- how the data is used in downstream dashboards, metrics, and joins
+- confirmation from subject-matter experts when the behavior is not explicit in code or documentation
+
+The constraints documented in this file follow this same approach.
+Because this repository uses synthetic data from a fictional company (ExampleCorp), standard industry assumptions are applied (for example, identifiers are treated as required).
